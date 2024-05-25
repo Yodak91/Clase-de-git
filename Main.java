@@ -3,6 +3,7 @@ import java.util.Scanner;
 class Helado {
     String sabor;
     String tamaño;
+    //revisando que haga commit
 
     public void caracteristicas() {
         System.out.println("Pues aquí está su helado de... " + sabor);
